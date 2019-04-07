@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#Dataset may be too big for github so we'll ignore the directory
+data/
+
